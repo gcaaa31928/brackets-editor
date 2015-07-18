@@ -1,0 +1,14 @@
+{
+  "extensions": {
+    "hirse.beautify": true,
+    "ivogabe.icons": true,
+    "dnbard.documents-toolbar": true,
+    "emberjs-htmlbars": true,
+    "gruehle.exclude-folders": true,
+    "milosh86.extensions-bulk-installer": false,
+    "dnbard.extensions-rating": true,
+    "adobe.brackets.extract": true,
+    "htmlbars-syntax": true,
+    "os-x-style-dark-theme": true
+  }
+}
